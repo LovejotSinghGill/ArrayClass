@@ -4,6 +4,7 @@ package arrayclass;
 
 public class Student {
     //added first commment
+    // add comment for revert
     private String studentId;
     private String studentName;
 
